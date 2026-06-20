@@ -10,3 +10,5 @@ For my capstone at SNHU, I enhanced an existing OpenGL project I previously deve
 
 ---
 
+## 📹 Informal Code Review
+https://youtu.be/u_15dGITvvw

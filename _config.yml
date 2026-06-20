@@ -1,6 +1,6 @@
 title: My Portfolio
 description: Personal website
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 header_pages:
   - index.md

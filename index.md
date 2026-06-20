@@ -3,21 +3,26 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm Kyler Wiles
+# Hi, I'm Kyler Wiles 👋
 
 ### B.S. in Computer Science | Aspiring Software Engineer | Pharmacy Tech
 
-I appreciate software development, problem solving, developing video games and learning new concepts.
+I appreciate software development, problem-solving, building video games, and learning new technologies.
 
 ---
 
 ## 🚀 Projects
 
-Computer Science Capstone
-For my Capstone at SNHU I enhanced my OpenGL project that I made in a previous course at SNHU. I enhanced the scene, added an investigator gameplay mechanic and implemented SQLite into the software.
+##🧠 Computer Science Capstone (OpenGL + SQLite)
+For my capstone at SNHU, I enhanced an existing OpenGL-based project by improving the 3D scene, adding an investigator-style gameplay mechanic, and integrating SQLite for data persistence.
 
-Unreal Engine 5 Puzzle game
-I made a first person puzzle game in Unreal Engine 5 for a gaming class I took at SNHU (GAM-303). The game has 3 levels, inluding multiple puzzles and a boss battle. 
+**Technologies:** OpenGL, C++, SQLite
+
+### 🎮 Unreal Engine 5 Puzzle Game
+Developed a first-person puzzle game in Unreal Engine 5 for GAM-303. The game includes three levels, multiple puzzle mechanics, and a boss battle encounter.
+
+**Engine:** Unreal Engine 5  
+**Language/Tools:** Blueprints / C++
 
 ---
 

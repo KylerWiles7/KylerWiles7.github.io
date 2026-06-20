@@ -1,15 +1,15 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Kyler Wiles
 
 Welcome to my portfolio.
 
 ## Projects
-- Project 1 — short description
-- Project 2 — short description
+Capstone at Southern New Hampshire University
 
 ## Skills
 - Python
 - HTML/CSS
 - JavaScript
+- SQL
 
 ## Contact
-- Email: you@example.com
+- Email: kylerwiles787@gmail.com

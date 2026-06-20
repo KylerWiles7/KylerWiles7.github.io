@@ -1,6 +1,6 @@
 title: My Portfolio
 description: Developer portfolio showcasing projects, skills and my contact information
-theme: jekyll-theme-cayman
+theme: minima
 
 header_pages:
   - index.md

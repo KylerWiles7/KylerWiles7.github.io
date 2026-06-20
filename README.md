@@ -1,2 +1,15 @@
-KylerWiles7.github.io
-This is my ePortfolio that I made during my last semester at Southern New Hampshire University.
+# Hi, I'm [Your Name]
+
+Welcome to my portfolio.
+
+## Projects
+- Project 1 — short description
+- Project 2 — short description
+
+## Skills
+- Python
+- HTML/CSS
+- JavaScript
+
+## Contact
+- Email: you@example.com

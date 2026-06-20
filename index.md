@@ -13,7 +13,7 @@ I appreciate software development, problem-solving, building video games, and le
 
 ## 🚀 Projects
 
-##🧠 Computer Science Capstone (OpenGL + SQLite)
+###🧠 Computer Science Capstone (OpenGL + SQLite)
 For my capstone at SNHU, I enhanced an existing OpenGL-based project by improving the 3D scene, adding an investigator-style gameplay mechanic, and integrating SQLite for data persistence.
 
 **Technologies:** OpenGL, C++, SQLite

@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-# Hi, I'm Kyler Wiles 👋
+# Hi, I'm Kyler Wiles 👋 
 
 ### B.S. in Computer Science | Aspiring Software Engineer | Pharmacy Tech
 

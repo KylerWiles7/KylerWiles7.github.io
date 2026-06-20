@@ -9,13 +9,15 @@ title: Capstone
 For my capstone at SNHU, I enhanced an existing OpenGL project I previously developed.
 
 ---
+## 📝 Professional Self-Assessment
 
+---
 ## 📹 Informal Code Review
 https://youtu.be/u_15dGITvvw
 
-## 📁 Artifacts
+## 📁 Enhanced Artifacts
 https://github.com/KylerWiles7/CS465
-## MainCode.cpp
+## ViewManager.cpp
 
 ## SceneManager.cpp
 

@@ -2,6 +2,10 @@ title: My Portfolio
 description: Developer portfolio showcasing projects, skills and my contact information
 theme: minima
 
+minima:
+  skin: auto
+
+
 header_pages:
   - index.md
   - about.md

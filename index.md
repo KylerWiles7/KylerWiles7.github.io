@@ -28,6 +28,6 @@ Developed a first-person puzzle game in Unreal Engine 5 for GAM-303. The game in
 
 ## 📫 Contact
 
-- Email: kylerwiles787@gmail.com
-- GitHub: https://github.com/KylerWiles7
-- LinkedIn: www.linkedin.com/in/kyler-wiles-130169417
+- 📧Email: kylerwiles787@gmail.com
+- 🔗GitHub: https://github.com/KylerWiles7
+- 💼LinkedIn: www.linkedin.com/in/kyler-wiles-130169417

@@ -34,6 +34,8 @@ I improved this artifact by fully visualizing the scene. To clarify, I added a b
 
 These are the course outcomes that I did not meet.
 
+## 1.) Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+## 2.) Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
 
 
 ### ViewManager.cpp

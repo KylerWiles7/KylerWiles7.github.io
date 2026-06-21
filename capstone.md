@@ -14,7 +14,7 @@ For my capstone at SNHU, I enhanced an existing OpenGL project that I previously
 
 I have uploaded most of the projects that I made at SNHU to my GitHub. This is a great resource to show what I am capable of developing. My ePortfolio contains the projects that I am especially proud of as a programmer. They show what I value as a programmer and provide insight to anyone looking at my work. 
 
-I collaborated with other students as well and there were advantages to teamwork. Other students were able to see problems that I overlooked and provide useful suggestions to me. I was able to learn more about programming by reviewing other students' projects. I also helped other students by providing suggestions and pointing out issues. What I learned is that teamwork in this field makes all the difference.
+I collaborated with other students as well and there were advantages to teamwork. Other students were able to see problems that I overlooked and provided useful suggestions to me. I was able to learn more about programming by reviewing other students' projects. I also helped other students by providing suggestions and pointing out issues. What I learned is that teamwork in this field makes all the difference.
 
 When I was researching user needs, I learned about communicating with stakeholders. I learned how important this process is because they tell us programmers what they need. This is vital to a project because my goal as a programmer is to meet their needs through my project. If I am not helping them then I am failing as a programmer. If I communicate clearly and keep them updated then I can avoid misunderstandings, build trust and create a project that they need. 
 

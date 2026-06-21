@@ -10,6 +10,7 @@ Unreal Engine 5 puzzle game at Southern New Hampshire University
 ## Skills
 - Python
 - HTML/CSS
+- C++
 - JavaScript
 - SQL
 

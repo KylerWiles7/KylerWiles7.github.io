@@ -19,6 +19,9 @@ https://youtu.be/u_15dGITvvw
 ## 📁 Enhanced Artifacts
 https://github.com/KylerWiles7/CS465
 
+## 📁 Original Artifacts
+https://github.com/KylerWiles7/CSC330
+
 ---
 ## 📖 Narratives
 ### 📁 SceneManager.cpp
@@ -62,9 +65,6 @@ I learned more about OpenGL, C++ and SQL by working on this project. I learned h
 
 5.) Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science.
 
----
-## 📁 Original Artifacts
-https://github.com/KylerWiles7/CSC330
 
 ---
 

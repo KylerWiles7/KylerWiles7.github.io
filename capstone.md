@@ -21,10 +21,10 @@ https://github.com/KylerWiles7/CS465
 
 ---
 ## 📖 Narratives
-## SceneManager.cpp
+### SceneManager.cpp
 SceneManager.cpp is the source code for the scene in my OpenGL project. SceneManger.cpp utilizes the textures, scene lights, objects, shaders, transformations and locations.
 
-## ViewManager.cpp
+### ViewManager.cpp
 
 
 ---

@@ -26,7 +26,7 @@ While studying cybersecurity in my program I learned how to use cybersecurity an
 
 ## How do my artifacts contribute to my portfolio?
 
-My artifacts showcase my ability to implement sofware design/engineering, algorithms/data structures and databases. These artifacts were originally part of a project that I worked on in October 2025. I was able to enhance this project to showcase how much I have grown as a programmer by implementing these features on a previous project. My artifacts also demonstrates my skills with C++ and older programs. These artifacts are a culmination of everything I have learned as a student and they are 
+My artifacts showcase my ability to implement sofware design/engineering, algorithms/data structures and databases. These artifacts were originally part of a project that I worked on in October 2025. I was able to enhance this project to showcase how much I have grown as a programmer by implementing these features on a previous project. My artifacts also demonstrates my skills with C++ and older programs. These artifacts are a culmination of everything I have learned as a student. I have included the enhanced artifacts, original artifacts and a narratives section that go past the surface level of the project.
 
 ---
 ## 📹 Informal Code Review

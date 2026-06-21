@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Capstone
+title: Capstone Deep Dive
 ---
 
 # 🧠 Computer Science Capstone Deep Dive

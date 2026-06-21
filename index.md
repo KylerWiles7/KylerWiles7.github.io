@@ -19,7 +19,7 @@ For my capstone at SNHU, I enhanced an existing OpenGL-based project by improvin
 **Technologies:** OpenGL, C++, SQLite
 
 ### 🎮 Unreal Engine 5 Puzzle Game
-Developed a first-person puzzle game in Unreal Engine 5 for GAM-303. The game includes three levels, multiple puzzle mechanics, and a boss battle encounter.
+I developed a first-person puzzle game for GAM-303 at SNHU. This game includes three levels, multiple puzzle mechanics, and a boss battle encounter.
 
 **Technologies:** Unreal Engine 5, Blueprints, Level Design
 

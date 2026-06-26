@@ -18,7 +18,7 @@ For my capstone at SNHU, I enhanced an existing OpenGL-based project by improvin
 
 **Technologies:** OpenGL, C++, SQLite
 
-## 🌡️ Raspberry Pi 5 Thermostat System (CS-350)
+### 🌡️ Raspberry Pi 5 Thermostat System (CS-350)
 
 I developed a thermostat application in Python and deployed it to a Raspberry Pi 5. This project utilized hardware integration to monitor and manage temperature through connected components and sensors.
 

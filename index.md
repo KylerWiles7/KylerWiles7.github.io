@@ -18,10 +18,18 @@ For my capstone at SNHU, I enhanced an existing OpenGL-based project by improvin
 
 **Technologies:** OpenGL, C++, SQLite
 
+## 🌡️ Raspberry Pi 5 Thermostat System
+
+I developed a thermostat application in Python and deployed it to a Raspberry Pi 5. This project utilized hardware integration to monitor and manage temperature through connected components and sensors.
+
+**Technologies:** Python, Raspberry Pi 5, Linux, Hardware Integration, Sensors
+
 ### 🎮 Unreal Engine 5 Puzzle Game
 I developed a first-person puzzle game for GAM-303 at SNHU. This game includes three levels, multiple puzzle mechanics, and a boss battle encounter.
 
 **Technologies:** Unreal Engine 5, Blueprints, Level Design
+
+
 
 ---
 
